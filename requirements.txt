@@ -1,2 +1,2 @@
-pycryptodome==3.20.0
-Pillow==10.2.0
+pycryptodome
+Pillow
